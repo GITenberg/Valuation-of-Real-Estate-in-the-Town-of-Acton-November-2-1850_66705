@@ -1,5 +1,8 @@
 _repo: Valuation-of-Real-Estate-in-the-Town-of-Acton-November-2-1850_66705
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66705-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Conant, Abraham
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '53924'
     url: http://www.gutenberg.org/2009/agents/53924
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66705#Valuation-of-Real-Estate-in-the-Town-of-Acton-November-2-1850
 gutenberg_issued: '2021-11-11'
 identifiers:
   gutenberg: '66705'
